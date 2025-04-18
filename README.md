@@ -44,6 +44,8 @@
    - Server running at: [http://127.0.0.1:9000](http://127.0.0.1:9000)
    - Warning: favicon.ico not found (normal for fresh project).
    - Unapplied migrations noted.
+   ![image](https://github.com/user-attachments/assets/d09d4bd1-9702-495b-8f0e-e6de20948b60)
+
 
 ## 🔧 Next Steps
 
